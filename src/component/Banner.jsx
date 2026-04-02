@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div>
             <div class="max-w-7xl mx-auto text-center mb-12">
-    <h1 class="text-4xl font-bold text-gray-900 mt-10">Premium Digital Tools</h1>
+    <h1 class="text-4xl font-bold text-gray-900 mt-20">Premium Digital Tools</h1>
     <p class="text-gray-500 max-w-2xl mx-auto mb-8">
       Choose from our curated collection of premium digital products designed to boost your productivity and creativity.
     </p>
@@ -51,7 +51,7 @@ const Banner = () => {
 
     <div class="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm relative hover:shadow-md transition">
       <span class="absolute top-4 right-4 bg-green-100 text-green-600 text-[10px] font-bold px-3 py-1 rounded-full uppercase">New</span>
-      <div class="w-12 h-12 bg-blue-50 rounded-xl flex items-center justify-center mb-6 text-2xl">📷</div>
+      <div class="w-12 h-12 bg-blue-50 rounded-xl flex items-center justify-center mb-6 text-2xl"></div>
       <h3 class="text-xl font-bold mb-3">Premium Stock Assets</h3>
       <p class="text-gray-500 text-sm mb-6 leading-relaxed">Access millions of royalty-free photos, videos, and graphics for your projects.</p>
       <div class="mb-6">
