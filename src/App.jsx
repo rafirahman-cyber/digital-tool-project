@@ -1,4 +1,5 @@
 import Banner from "./component/Banner"
+import Footer from "./component/Footer"
 import HeroSection from "./component/HeroSection"
 import Navbar from "./component/Navbar"
 
@@ -12,6 +13,7 @@ function App() {
      <Navbar></Navbar>
      <Banner></Banner>
      <HeroSection></HeroSection>
+     <Footer></Footer>
     </>
   )
 }

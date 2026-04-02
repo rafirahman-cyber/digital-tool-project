@@ -6,7 +6,7 @@ const Footer = () => {
             <section class="bg-violet-600 py-20 px-6 text-center text-white">
     <div class="max-w-4xl mx-auto">
       
-      <h2 class="text-3xl md:text-5xl font-extrabold mb-6 leading-tight">
+      <h2 class="text-3xl md:text-5xl font-bold mb-6 leading-tight">
         Ready To Transform Your Workflow?
       </h2>
       

@@ -8,7 +8,7 @@ const HeroSection = () => {
     <p class="text-gray-400 text-lg">Start using premium digital tools in minutes, not hours.</p>
   </div>
 
-  <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
+  <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 mb-20">
     
     <div class="bg-white p-10 rounded-[14px] border border-gray-100 shadow-sm relative text-center hover:shadow-md transition">
       <span class="absolute top-6 right-6 bg-violet-600 text-white text-[10px] font-bold w-6 h-6 flex items-center justify-center rounded-full">01</span>
