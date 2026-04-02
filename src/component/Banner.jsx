@@ -35,7 +35,7 @@ const Banner = () => {
 
     <div class="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm relative hover:shadow-md transition">
       <span class="absolute top-4 right-4 bg-violet-100 text-violet-600 text-[10px] font-bold px-3 py-1 rounded-full uppercase">Popular</span>
-      <div class="w-12 h-12 bg-pink-50 rounded-xl flex items-center justify-center mb-6 text-2xl">🎨</div>
+      <div class="w-12 h-12 bg-pink-50 rounded-xl flex items-center justify-center mb-6 text-2xl"><img src="/src/assets/design-tool.png" alt="" /></div>
       <h3 class="text-xl font-bold mb-3">Design Templates Pack</h3>
       <p class="text-gray-500 text-sm mb-6 leading-relaxed">2000+ premium templates for social media, presentations, and marketing materials.</p>
       <div class="mb-6">

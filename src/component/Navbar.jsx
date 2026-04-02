@@ -85,7 +85,7 @@ const Navbar = () => {
     </div>
 
     <div class="relative">
-      <div class="rounded-3xl overflow-hidden shadow-xl">
+      <div class="rounded-3xl overflow-hidden shadow-xl w-125 h-147">
         <img src="/src/assets/banner.png" alt="" />
       </div>
     </div>
