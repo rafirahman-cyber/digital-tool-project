@@ -34,7 +34,7 @@ const DigitalToolsApp = () => {
         </div>
       </div>
 
-      {/* --- CONDITIONAL CONTENT --- */}
+      
       <div className="max-w-6xl mx-auto px-4 pb-20">
         {!showCart ? (
           /* প্রথম পেজ: Products Grid (Screenshot 86/93) */
