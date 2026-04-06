@@ -67,7 +67,7 @@ const DigitalToolsApp = () => {
   );
 };
 
-// --- SUB COMPONENTS ---
+
 
 const ProductCard = ({ name, price, badge, icon }) => (
   <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow relative">
