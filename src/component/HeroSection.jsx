@@ -3,8 +3,8 @@ import React from 'react';
 const HeroSection = () => {
     return (
         <div>
-            <div class="max-w-7xl mx-auto text-center mb-16">
-    <h2 class="text-4xl font-bold text-gray-900 mt-20">Get Started In 3 Steps</h2>
+            <div class="max-w-7xl mx-auto text-center mb-10">
+    <h2 class="text-4xl font-bold text-gray-900 mt-10">Get Started In 3 Steps</h2>
     <p class="text-gray-400 text-lg">Start using premium digital tools in minutes, not hours.</p>
   </div>
 
