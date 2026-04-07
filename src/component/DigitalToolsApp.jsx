@@ -37,7 +37,7 @@ const DigitalToolsApp = () => {
       
       <div className="max-w-6xl mx-auto px-4 pb-20">
         {!showCart ? (
-          /* প্রথম পেজ: Products Grid (Screenshot 86/93) */
+          
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProductCard name="AI Writing Pro" price="29" badge="Best Seller" icon= "" />
             <ProductCard name="Design Templates Pack" price="49" badge="Popular" icon="" />

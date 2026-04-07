@@ -28,9 +28,9 @@ const Pricing = () => {
         <p class="text-violet-200 text-sm mb-6">Best for professionals</p>
         <div class="text-4xl font-bold mb-8">$29<span class="text-sm font-normal opacity-70">/Month</span></div>
         <ul class="space-y-4 mb-10 text-sm flex-grow">
-          <li>✓ Access to all premium tools</li>
-          <li>✓ Priority support</li>
-          <li>✓ Advanced analytics</li>
+          <li> Access to all premium tools</li>
+          <li> Priority support</li>
+          <li> Advanced analytics</li>
         </ul>
         <button class="w-full bg-white text-violet-600 py-3 rounded-2xl">Start Pro Trial</button>
       </div>
@@ -39,9 +39,9 @@ const Pricing = () => {
         <p class="text-gray-400 text-sm mb-6">For teams and businesses</p>
         <div class="text-4xl font-bold mb-8">$99<span class="text-sm font-normal text-gray-400">/Month</span></div>
         <ul class="space-y-4 mb-10 text-sm text-gray-600 flex-grow">
-          <li>✓ Everything in Pro</li>
-          <li>✓ Custom integrations</li>
-          <li>✓ Dedicated support</li>
+          <li> Everything in Pro</li>
+          <li> Custom integrations</li>
+          <li> Dedicated support</li>
         </ul>
         <button class="w-full bg-violet-600 text-white py-3 rounded-2xl">Contact Sales</button>
       </div>
