@@ -8,6 +8,7 @@ import Pricing from "./component/Pricing"
 
 
 
+
 function App() {
   
 
