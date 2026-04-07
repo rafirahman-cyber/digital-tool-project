@@ -44,7 +44,7 @@ const DigitalToolsApp = () => {
             <ProductCard name="Premium Stock Assets" price="19" badge="New" icon="" />
           </div>
         ) : (
-          /* দ্বিতীয় পেজ: Your Cart (Screenshot 89) */
+          
           <div className="max-w-4xl mx-auto bg-white p-8 rounded-3xl border border-gray-100 shadow-lg">
             <h2 className="text-2xl font-bold mb-6 text-left">Your Cart</h2>
             <div className="space-y-4">
